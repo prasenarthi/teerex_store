@@ -1,0 +1,10 @@
+.failure-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: tomato;
+}
+.failure-title {
+  color: tomato;
+  font-size: 18px;
+}

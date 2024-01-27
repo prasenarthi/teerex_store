@@ -1,0 +1,8 @@
+.cart-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #2a2a2a;
+  height: 100vh;
+  color: white;
+  padding: 20px;
+}

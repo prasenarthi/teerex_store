@@ -1,0 +1,30 @@
+.cart-list-container {
+  display: flex;
+  flex-direction: column;
+}
+.cart-items-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.total-price-details {
+  align-self: flex-end;
+}
+.place-order-button {
+  align-self: flex-end;
+  padding: 10px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  background-color: #7562ab;
+  color: white;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+}
+.disable-btn {
+  background-color: lightgray;
+  color: white;
+  cursor: not-allowed;
+}
